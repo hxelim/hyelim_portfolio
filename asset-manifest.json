@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hyelim_portfolio/static/css/main.ba927a04.css",
-    "main.js": "/hyelim_portfolio/static/js/main.3a227c48.js",
+    "main.js": "/hyelim_portfolio/static/js/main.72644f7d.js",
     "static/js/453.536feb8d.chunk.js": "/hyelim_portfolio/static/js/453.536feb8d.chunk.js",
     "index.html": "/hyelim_portfolio/index.html",
     "main.ba927a04.css.map": "/hyelim_portfolio/static/css/main.ba927a04.css.map",
-    "main.3a227c48.js.map": "/hyelim_portfolio/static/js/main.3a227c48.js.map",
+    "main.72644f7d.js.map": "/hyelim_portfolio/static/js/main.72644f7d.js.map",
     "453.536feb8d.chunk.js.map": "/hyelim_portfolio/static/js/453.536feb8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba927a04.css",
-    "static/js/main.3a227c48.js"
+    "static/js/main.72644f7d.js"
   ]
 }
